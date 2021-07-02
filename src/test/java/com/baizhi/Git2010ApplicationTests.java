@@ -10,6 +10,7 @@ class Git2010ApplicationTests {
     void contextLoads() {
         int a=100;
         int b=200;
+        System.out.println("sjahdsf");
     }
 
 }
